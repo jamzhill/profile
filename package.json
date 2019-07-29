@@ -5,7 +5,9 @@
   "version": "0.1.0",
   "author": "me",
   "homepage": "https://me.github.io",
-  "dependencies": {},
+  "dependencies": {
+    "kuduscript": "^1.0.17"
+  },
   "devDependencies": {
     "@babel/preset-es2016": "^7.0.0-beta.53",
     "babel-core": "^6.0.0",

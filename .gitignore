@@ -14,6 +14,9 @@
 # notes
 *.txt
 
+# backups
+*.zip
+
 # misc
 .DS_Store
 .env.local
