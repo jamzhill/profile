@@ -22,10 +22,12 @@ function getNavigation() {
     };
 }
 
+// ReactDOM.render(<App />, document.getElementById('root'));
+
 ReactDOM.render(
     Routes.get({
         resumePath: getResumePath(),
         navigation: getNavigation()
     }),
-    document.getElementById('app')
+    document.getElementById('root')
 );
