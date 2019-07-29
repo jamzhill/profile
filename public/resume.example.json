@@ -1,0 +1,251 @@
+{
+    "basics": {
+        "name": "James Hill",
+        "label": "Senior Software Engineering Manager",
+        "picture": "https://avatars1.githubusercontent.com/u/30061081?s=400&u=0b31cd3f025b61649a796b144773b97709240cf2&v=4",
+        "email": "jamzhill@gmail.com",
+        "phone": "(425) 412-2886",
+        "website": "http://jameshill.azuresites.net",
+        "summary": [
+            "A results oriented senior software engineer with over 10 years experience leading development teams in app design, development and support across the entire development lifecycle.",
+            "Most recent focus has been driving security and privacy compliance initiatives across Univ Storefront Tools."
+        ],
+        "location": {
+            "address": "289 Edmonds Ave SE",
+            "postalCode": "98056",
+            "city": "Renton",
+            "countryCode": "WA",
+            "region": "King"
+        },
+        "profiles": [
+            {
+                "network": "email",
+                "username": "James",
+                "url": "mailto:james@certtutor.com"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "James",
+                "url": "https://www.linkedin.com/in/james-hill-a3013b61/"
+            },
+            {
+                "network": "GitHub",
+                "username": "James",
+                "url": "https://github.com/jamzhill"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Microsoft",
+            "position": "Senior Software Engineering Lead",
+            "website": "https://www.microsoft.com/en-us/store",
+            "startDate": "Mar 2013",
+            "endDate": "Jun 2019",
+            "summary": "Redmond, WA",
+            "highlights": [
+                "Built and lead team a team of over 20 engineers. Active in career development, professional growth, and performance management.",
+                "Responsible for design and delivery of workflow automation tools and validation frameworks. Major deliveries include: Campaign management, Workflow automation and tracking, and UI/Service/Catalog validation frameworks.",
+                "Responsible for promoting the team’s culture, vision, strategy. Achieved 96% Work Health Index in anonymous MS Poll results.",
+                "Lead weekly Demo meetings with stakeholders to highlight team’s progress, provide transparency and promote a positive culture.",
+                "Engaged customers and peers to solicit feedback, drive clarity, identify gaps and increase efficiencies across the organization."
+            ]
+        },
+        {
+            "company": "Costco Wholesale",
+            "position": "Software Engineering Test Lead",
+            "website": "https://www.costco.com",
+            "startDate": "Feb 2013",
+            "endDate": "July 2010",
+            "summary": "Issaquah, WA",
+            "highlights": [
+                "Responsible for defining our vision, implementing our Web Service framework solution and evangelizing the automation strategy.",
+                "Designed custom web service test automation framework, which dynamically generated SOAP requests based on latest WSDL or XSD. Suites containing test cases and steps were stored in a SQL backend, could be scheduled, modified, and results explored via MVC Reporting frontend.",
+                "Mentored QA team members on implementing automation tests and general coding skills."
+            ]
+        },
+        {
+            "company": "Clearwire",
+            "position": "Software Engineering Test Lead",
+            "website": "https://www.clearwire.com",
+            "startDate": "Jun 2010",
+            "endDate": "July 2008",
+            "summary": "Krikland, WA",
+            "highlights": [
+                "Hosted daily standups to address business needs, remove team impediments and reviewing Sprint project status.",
+                "Established and lead a team of SDETs responsible for testing of all mid-tier business web services.  The Services Test team was anywhere from 5-10 in-house resources (+3 outsourced).",
+                "Designed and implemented a custom test automation framework, which dynamically generated SOAP requests based on latest WSDL or XSD. Suites containing test cases were stored in SQL backend and results displayed via an ASP.Net."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "<ORGANIZATION_NAME>",
+            "position": "<POSITION>",
+            "website": "<WEBSITE>",
+            "startDate": "<START_DATE>",
+            "endDate": "<END_DATE>",
+            "summary": "<SUMMARY>",
+            "highlights": [
+                "<HIGHTLIGHT_1>",
+                "<HIGHTLIGHT_2>",
+                "<HIGHTLIGHT_3>"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Hawaii Pacific University",
+            "area": "Computer Science",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "1994",
+            "endDate": "1998",
+            "gpa": "3.85",
+            "summary": "Bachelors of Science",
+            "courses": [
+                "Database Theory",
+                "Assembler",
+                "Discrete Mathmatics"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "UST: Unsung Hero",
+            "date": "May 2017",
+            "awarder": "Universal Storefronts Org",
+            "summary": "Charter member"
+        },
+        {
+            "title": "Microsoft Certified Application Developer",
+            "date": "Jan 2003",
+            "awarder": "Microsoft",
+            "summary": "MCAD (.NET/C#) Charter member"
+        }
+    ],
+    "projects": [
+        {
+            "name": "CertTutor",
+            "publisher": "",
+            "category": "Entreprenuer",
+            "releaseDate": "<RELEASE_DATE>",
+            "website": "www.CertTutor.com",
+            "summary": "Certification Learning Platform",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            },
+            "keywords": [
+                "WPF .Net",
+                "Browser control",
+                "AWS search"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming Languages",
+            "description": [
+                "I've worked on projects across full dev stack, from mobile clients to cloud.",
+                "Currently ramping up on MERN stack."
+            ],
+            "skillDetails": [
+                {
+                    "name": "C#",
+                    "level": "80",
+                    "keywords": [
+                        "Azure",
+                        "Core 2.0",
+                        "WPF"
+                    ]
+                },
+                {
+                    "name": "C++",
+                    "level": "70",
+                    "keywords": [
+                        "Client",
+                        "Browser control",
+                        "MFC"
+                    ]
+                },
+                {
+                    "name": "Javascript",
+                    "level": "60",
+                    "keywords": [
+                        "Node",
+                        "React",
+                        "SQL"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Storage",
+            "description": [
+                "Familiarity with both relational databases and no-SQL.",
+                "Currently ramping up on Mongo."
+            ],
+            "skillDetails": [
+                {
+                    "name": "SQL",
+                    "level": "70",
+                    "keywords": [
+                        "sprocs",
+                        "realational",
+                        "DTS"
+                    ]
+                },
+                {
+                    "name": "DocumentDB",
+                    "level": "60",
+                    "keywords": [
+                        "document",
+                        "non-relational",
+                        "Azure"
+                    ]
+                },
+                {
+                    "name": "MongoDB",
+                    "level": "50",
+                    "keywords": [
+                        "document",
+                        "non-relational",
+                        "atlas"
+                    ]
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "name": ".Net C#",
+            "level": "90"
+        },
+        {
+            "name": "C/C++",
+            "level": "70"
+        },
+        {
+            "name": "Javascript",
+            "level": "50"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Stock Investing AI",
+            "keywords": [
+                "prediction",
+                "finance",
+                "nasdaq"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Cort Fritz",
+            "position": "Principal Engineering Lead",
+            "company": "Microsoft",
+            "reference": "James is a great guy!"
+        }
+    ]
+}
