@@ -7,14 +7,15 @@
         "phone": "(425) 412-2886",
         "website": "http://jameshill.azuresites.net",
         "summary": [
-            "A results oriented senior software engineer with over 10 years experience leading development teams in app design, development and support across the entire development lifecycle.",
-            "Most recent focus has been driving security and privacy compliance initiatives across Univ Storefront Tools."
+            "A team oriented senior software engineering lead with over 10 years experience managing engineering teams in app design, development and support across the entire development lifecycle.",
+            "Most of my previous roles have had strong emphasis on validation frameworks, automation strategies and process efficiencies in agile environments.",
+            "Currently working on this site to ramp up on front-end development on MERN stack: Mongo-Express-Node/React/Mongo"
         ],
         "location": {
             "address": "289 Edmonds Ave SE",
             "postalCode": "98056",
-            "city": "Renton",
-            "countryCode": "WA",
+            "city": "",
+            "countryCode": "",
             "region": "King"
         },
         "profiles": [
@@ -60,7 +61,7 @@
             "summary": "Issaquah, WA",
             "highlights": [
                 "Responsible for defining our vision, implementing our Web Service framework solution and evangelizing the automation strategy.",
-                "Designed custom web service test automation framework, which dynamically generated SOAP requests based on latest WSDL or XSD. Suites containing test cases and steps were stored in a SQL backend, could be scheduled, modified, and results explored via MVC Reporting frontend.",
+                "Designed and developed an adaptive test automation framework using a custom Html abstraction layer, to dynamically identify web elements. The system leveraged Selenium web driver and Visual Studio Test to execute tests and track results.",
                 "Mentored QA team members on implementing automation tests and general coding skills."
             ]
         },
@@ -70,7 +71,7 @@
             "website": "https://www.clearwire.com",
             "startDate": "Jun 2010",
             "endDate": "July 2008",
-            "summary": "Krikland, WA",
+            "summary": "Kirkland, WA",
             "highlights": [
                 "Hosted daily standups to address business needs, remove team impediments and reviewing Sprint project status.",
                 "Established and lead a team of SDETs responsible for testing of all mid-tier business web services.  The Services Test team was anywhere from 5-10 in-house resources (+3 outsourced).",
@@ -95,11 +96,27 @@
     ],
     "education": [
         {
+            "institution": "Microsoft Certified Application Developer",
+            "area": ".NET/C#",
+            "summary": "Charter member",
+            "startDate": "Jan 2003",
+            "endDate": "Jan 2003",
+            "awarder": "Microsoft"
+        },
+        {
+            "institution": "Microsoft Certified Database Administrator",
+            "area": "SQL Server",
+            "summary": "Charter member",
+            "startDate": "2003",
+            "endDate": "2008",
+            "awarder": "Microsoft"
+        },
+        {
             "institution": "Hawaii Pacific University",
             "area": "Computer Science",
             "studyType": "<STUDY_TYPE>",
-            "startDate": "1994",
-            "endDate": "1998",
+            "startDate": "April 1994",
+            "endDate": "July 1998",
             "gpa": "3.85",
             "summary": "Bachelors of Science",
             "courses": [
@@ -121,24 +138,29 @@
             "date": "Jan 2003",
             "awarder": "Microsoft",
             "summary": "MCAD (.NET/C#) Charter member"
+        },
+        {
+            "title": "Microsoft Certified Database Administrator",
+            "date": "Feb 2003",
+            "awarder": "Microsoft",
+            "summary": "SQL server"
         }
     ],
     "projects": [
         {
             "name": "CertTutor",
-            "publisher": "",
+            "publisher": "James Hill",
             "category": "Entreprenuer",
-            "releaseDate": "<RELEASE_DATE>",
+            "releaseDate": "Feb 2012",
             "website": "www.CertTutor.com",
             "summary": "Certification Learning Platform",
             "image": {
-                "modal": "<MODAL_IMAGE>",
-                "thumb": "<THUMBNAIL_IMAGE>"
+                "modal": "http://jameshill.azurewebsites.net/public/images/certtutor.jpg",
+                "thumb": "http://jameshill.azurewebsites.net/public/images/ctlogo.ico"
             },
             "keywords": [
-                "WPF .Net",
-                "Browser control",
-                "AWS search"
+                ".Net C# WPF",
+                "Custom Search api"
             ]
         }
     ],
@@ -147,7 +169,7 @@
             "title": "Programming Languages",
             "description": [
                 "I've worked on projects across full dev stack, from mobile clients to cloud.",
-                "Currently ramping up on MERN stack."
+                "Building this site to ramp up on MERN stack: Mongo-Express-React-Node"
             ],
             "skillDetails": [
                 {
@@ -180,10 +202,44 @@
             ]
         },
         {
+            "title": "Development Tools",
+            "description": [
+                "While I do have a passion for creating and designing custom tools that can be adapted to fit the exact needs of the business, I've learned to recognize ROI and appreciate the ease of off-the-shelf solution. Here are a few that I have found most useful:"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Visual Studio Code",
+                    "level": "90",
+                    "keywords": [
+                        "DevOps",
+                        "CI/CD",
+                        "Extensions"
+                    ]
+                },
+                {
+                    "name": "GitHub",
+                    "level": "70",
+                    "keywords": [
+                        "versioning",
+                        "collaborative",
+                        "shared"
+                    ]
+                },
+                {
+                    "name": "PostMan",
+                    "level": "70",
+                    "keywords": [
+                        "API testing",
+                        "Diagnosing",
+                        "Troubleshooting"
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Storage",
             "description": [
-                "Familiarity with both relational databases and no-SQL.",
-                "Currently ramping up on Mongo."
+                "Familiarity with both relational databases and no-SQL."
             ],
             "skillDetails": [
                 {
@@ -242,10 +298,10 @@
     ],
     "references": [
         {
-            "name": "Cort Fritz",
-            "position": "Principal Engineering Lead",
-            "company": "Microsoft",
-            "reference": "James is a great guy!"
+            "name": "References",
+            "position": "Previous Manager",
+            "company": "",
+            "reference": "Available upon request!"
         }
     ]
 }

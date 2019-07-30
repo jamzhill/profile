@@ -15,7 +15,7 @@ const Entry = React.createClass({
         return (
             <div className='row item'>
                 <div className='twelve columns'>
-                    <h3>{this.props.entry.institution}</h3>
+                    <h4>{this.props.entry.institution}</h4>
                     <p className='info'>
                         {this.props.entry.area}
                         <span> &bull; </span>
