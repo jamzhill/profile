@@ -34,7 +34,8 @@ const Entry = React.createClass({
                 <div className='item-wrap' onClick={this.handleOpenModal}>
                     <img
                         src={this.props.entry.image.thumb}
-                        alt={this.props.entry.name}/>
+                        alt={this.props.entry.name}
+                        width='100%'/>
                     <div className='overlay'>
                         <div className='portfolio-item-meta'>
                             <h5>{this.props.entry.name}</h5>

@@ -19,7 +19,7 @@ const Entry = React.createClass({
                         {this.props.entry.name}
                         <br/>
                         &nbsp;&nbsp;&nbsp;&nbsp;
-                        {`${this.props.entry.position}, ${this.props.entry.company}`}
+                        {`${this.props.entry.position} ${this.props.entry.company}`}
                     </cite>
                 </blockquote>
             </div>
@@ -35,9 +35,10 @@ const References = React.createClass({
     render: function () {
         const carouselConfig = {
             autoplay: true,
+            autoplayInterval: 10000,
             decorators: [],
             framePadding: '10px',
-            cellSpacing: 30,
+            cellSpacing: 33,
             wrapAround: true
         };
         return (
@@ -46,13 +47,14 @@ const References = React.createClass({
                     <div className='row'>
                         <div className='two columns header-col'>
                             <h1>
-                                <span>References</span>
+                                <span>Quotes</span>
                             </h1>
                         </div>
                         <div className='columns flex-container'>
                             <div className='flexslider'>
                                 <Carousel
                                     autoplay={carouselConfig.autoplay}
+                                    autoplayInterval={carouselConfig.autoplayInterval}
                                     decorators={carouselConfig.decorators}
                                     wrapAround={carouselConfig.wrapAround}>
                                     {this.props.content.map(function (entry, index) {

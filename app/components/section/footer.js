@@ -17,14 +17,15 @@ const Footer = React.createClass({
                         <SocialMedia ulClass='social-links' profiles={this.props.content.profiles}/>
                         <ul className='copyright'>
                             <li>
-                                This site is developed in React.js by&nbsp;
+                                Thanks to&nbsp;
                                 <a
                                     href='https://suddi.github.io'
                                     title='Sudharshan Ravindran'
                                     target='_blank'
                                     rel='noopener noreferrer'>
-                                    Sudharshan Ravindran
-                                </a> from the original design of Ceevee from&nbsp;
+                                    Sudharshan Ravindran&nbsp;
+                                </a>
+                                who originally ported this site into React based on the Ceevee html template available at&nbsp;
                                 <a
                                     href='http://www.styleshout.com/'
                                     title='Styleshout'

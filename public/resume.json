@@ -7,9 +7,8 @@
         "phone": "(425) 412-2886",
         "website": "http://jameshill.azuresites.net",
         "summary": [
-            "A team oriented senior software engineering lead with over 10 years experience managing engineering teams in app design, development and support across the entire development lifecycle.",
-            "Most of my previous roles have had strong emphasis on validation frameworks, automation strategies and process efficiencies in agile environments.",
-            "Currently working on this site to ramp up on front-end development on MERN stack: Mongo-Express-Node/React/Mongo"
+            "A team oriented senior software engineering lead with over 10 years experience managing engineering teams in app design, development and support across the entire development lifecycle. My previous roles have all required a strong emphasis on validation frameworks, automation strategies and process efficiencies in agile environments.",
+            "Although my background has been primarily on Microsoft tech stack, I am currently hoping to expand. Using this site to ramp up more on front-end development and gain expertise on MERN stack: Mongo-Express-Node/React/Mongo"
         ],
         "location": {
             "address": "289 Edmonds Ave SE",
@@ -41,8 +40,8 @@
             "company": "Microsoft",
             "position": "Senior Software Engineering Lead",
             "website": "https://www.microsoft.com/en-us/store",
-            "startDate": "Mar 2013",
-            "endDate": "Jun 2019",
+            "startDate": "2013/03",
+            "endDate": "2019/06",
             "summary": "Redmond, WA",
             "highlights": [
                 "Built and lead team a team of over 20 engineers. Active in career development, professional growth, and performance management.",
@@ -56,28 +55,40 @@
             "company": "Costco Wholesale",
             "position": "Software Engineering Test Lead",
             "website": "https://www.costco.com",
-            "startDate": "Feb 2013",
-            "endDate": "July 2010",
+            "startDate": "2010/08",
+            "endDate": "2013/02",
             "summary": "Issaquah, WA",
             "highlights": [
-                "Responsible for defining our vision, implementing our Web Service framework solution and evangelizing the automation strategy.",
+                "Responsible for implementing Web Service validation framework solution and evangelizing the automation strategy.",
                 "Designed and developed an adaptive test automation framework using a custom Html abstraction layer, to dynamically identify web elements. The system leveraged Selenium web driver and Visual Studio Test to execute tests and track results.",
                 "Mentored QA team members on implementing automation tests and general coding skills."
             ]
         },
         {
             "company": "Clearwire",
-            "position": "Software Engineering Test Lead",
+            "position": "Software Development Test Lead",
             "website": "https://www.clearwire.com",
-            "startDate": "Jun 2010",
-            "endDate": "July 2008",
+            "startDate": "2008/03",
+            "endDate": "2010/07",
             "summary": "Kirkland, WA",
             "highlights": [
                 "Hosted daily standups to address business needs, remove team impediments and reviewing Sprint project status.",
                 "Established and lead a team of SDETs responsible for testing of all mid-tier business web services.  The Services Test team was anywhere from 5-10 in-house resources (+3 outsourced).",
                 "Designed and implemented a custom test automation framework, which dynamically generated SOAP requests based on latest WSDL or XSD. Suites containing test cases were stored in SQL backend and results displayed via an ASP.Net."
             ]
-        }
+        },
+        {
+            "company": "Action Engine",
+            "position": "Software Development Test Lead",
+            "website": "https://web.archive.org/web/20060102014617/http://actionengine.com/",
+            "startDate": "2004/09",
+            "endDate": "2008/02",
+            "summary": "Bellevue, WA",
+            "highlights": [
+                "Hands-on lead role within the company’s Server Core team. Coordinated efforts of a small team of SDETs over a wide range of mobile application projects and platform technologies including MIDP, BREW, RIM and Windows Mobile.",
+                "Designed and implemented test automation in C# using Visual Studio 2005 (Team Edition for Software Testers) emulating client requests to verify API interface with Mobile Application Platform (MAP) Server."
+            ]
+        }        
     ],
     "volunteer": [
         {
@@ -160,7 +171,25 @@
             },
             "keywords": [
                 ".Net C# WPF",
+                "NLP AI",
                 "Custom Search api"
+            ]
+        },
+        {
+            "name": "CertFX",
+            "publisher": "James Hill",
+            "category": "Entreprenuer",
+            "releaseDate": "Feb 2002",
+            "website": "www.CertFX.com",
+            "summary": "Certification Prep",
+            "image": {
+                "modal": "http://jameshill.azurewebsites.net/public/images/certfx.jpg",
+                "thumb": "http://jameshill.azurewebsites.net/public/images/certfx.jpg"
+            },
+            "keywords": [
+                "C++ MFC",
+                "quiz engine",
+                "encryption"
             ]
         }
     ],
@@ -168,8 +197,8 @@
         {
             "title": "Programming Languages",
             "description": [
-                "I've worked on projects across full dev stack, from mobile clients to cloud.",
-                "Building this site to ramp up on MERN stack: Mongo-Express-React-Node"
+                "I've built numerous applications across full dev stack, from mobile clients to cloud.",
+                "Besides pragmatic reasons, I am building this site to ramp up further on MERN stack: Mongo-Express-React-Node"
             ],
             "skillDetails": [
                 {
@@ -298,10 +327,40 @@
     ],
     "references": [
         {
-            "name": "References",
-            "position": "Previous Manager",
+            "name": "Cort Fritz",
+            "position": "Principal Sotware Engineering Lead",
+            "company": " [Microsoft]",
+            "reference": "James was a great dev lead. He ran a tight SCRUM with high morale and high velocity. I now have a greater appreciation for how much work and talent went into making a well run team look effortless."
+        },
+        {
+            "name": "Milton Berle",
+            "position": "",
             "company": "",
-            "reference": "Available upon request!"
+            "reference": "If opportunity doesn’t knock, build a door."
+        },
+        {
+            "name": "Napoleon Hill",
+            "position": "",
+            "company": "",
+            "reference": "If you cannot do great things, do small things in a great way."
+        },
+        {
+            "name": "Booker T. Washington",
+            "position": "",
+            "company": "",
+            "reference": "If you want to lift yourself up, lift up someone else."
+        },
+        {
+            "name": "Unknown",
+            "position": "",
+            "company": "",
+            "reference": "The person who says it cannot be done should not interrupt the person who is doing it."
+        },
+        {
+            "name": "Colin R. Davis",
+            "position": "",
+            "company": "",
+            "reference": "The road to success and the road to failure are almost exactly the same."        
         }
     ]
 }

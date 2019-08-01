@@ -26,6 +26,7 @@ const About = React.createClass({
                         })}
                         <div className='row'>
                             <div className='columns contact-details'>
+                                <br/>
                                 <h2>Contact Details</h2>
                                 <p className='address'>
                                     {/*
