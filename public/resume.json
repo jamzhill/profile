@@ -7,8 +7,8 @@
         "phone": "(425) 412-2886",
         "website": "http://jameshill.azuresites.net",
         "summary": [
-            "A team oriented senior software engineering lead with over 10 years experience managing engineering teams in app design, development and support across the entire development lifecycle. My previous roles have all required a strong emphasis on validation frameworks, automation strategies and process efficiencies in agile environments.",
-            "Although my background has been primarily on Microsoft tech stack, I am currently hoping to expand. Using this site to ramp up more on front-end development and gain expertise on MERN stack: Mongo-Express-Node/React/Mongo"
+            "A team oriented senior software engineering lead with over 10 years of management experience leading engineering teams in the design, development and support of software applications throughout the entire development lifecycle. My previous roles have all required a strong emphasis on validation frameworks, automation strategies and process efficiencies in highly agile eCommerce environments. ",
+            "Although my background has been primarily on Microsoft tech stack, I am currently expanding my skillset to include front-end development, specifically utilizing MERN stack: Mongo-Express-Node/React/Mongo"
         ],
         "location": {
             "address": "289 Edmonds Ave SE",
@@ -44,10 +44,10 @@
             "endDate": "2019/06",
             "summary": "Redmond, WA",
             "highlights": [
-                "Built and lead team a team of over 20 engineers. Active in career development, professional growth, and performance management.",
+                "Built and lead team a team of over 20 engineers. Active in career development, professional growth, and performance management. ",
                 "Responsible for design and delivery of workflow automation tools and validation frameworks. Major deliveries include: Campaign management, Workflow automation and tracking, and UI/Service/Catalog validation frameworks.",
                 "Responsible for promoting the team’s culture, vision, strategy. Achieved 96% Work Health Index in anonymous MS Poll results.",
-                "Lead weekly Demo meetings with stakeholders to highlight team’s progress, provide transparency and promote a positive culture.",
+                "Provided RESTFUL web services and APIs (JSON) to provide interoperability, share application functionality and expose business logic.",
                 "Engaged customers and peers to solicit feedback, drive clarity, identify gaps and increase efficiencies across the organization."
             ]
         },
@@ -60,6 +60,7 @@
             "summary": "Issaquah, WA",
             "highlights": [
                 "Responsible for implementing Web Service validation framework solution and evangelizing the automation strategy.",
+                "Lead weekly Demo meetings with stakeholders to highlight team’s progress, provide transparency and promote a positive culture.",
                 "Designed and developed an adaptive test automation framework using a custom Html abstraction layer, to dynamically identify web elements. The system leveraged Selenium web driver and Visual Studio Test to execute tests and track results.",
                 "Mentored QA team members on implementing automation tests and general coding skills."
             ]
@@ -159,37 +160,88 @@
     ],
     "projects": [
         {
-            "name": "CertTutor",
+            "name": "Clearwire",
             "publisher": "James Hill",
-            "category": "Entreprenuer",
+            "category": "Webservices QA",
+            "releaseDate": "Feb 2007",
+            "website": "https://www.clear.com/",
+            "summary": "Project: Webservice Validation Framework",
+            "image": {
+                "modal": "https://logodix.com/logo/1331907.jpg",
+                "thumb": "https://logodix.com/logo/1331907.jpg"
+            },
+            "keywords": [
+                ".Net C# MVC",
+                "SOAP WSDL",
+                "WebService validation"
+            ]
+        },
+        {
+            "name": "Costco",
+            "publisher": "James Hill",
+            "category": "eCommerce",
+            "releaseDate": "Feb 2010",
+            "website": "https://www.costco.com/",
+            "summary": "UI Validation Framework",
+            "image": {
+                "modal": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/9810/brand.gif?itok=AlU1TVf9",
+                "thumb": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0002/9810/brand.gif?itok=AlU1TVf9"
+            },
+            "keywords": [
+                ".Net C# SQL",
+                "HTML Abstraction",
+                "Selenium web-driver"
+            ]
+        },
+        {
+            "name": "Microsoft Universal Store : Tools and Automation",
+            "publisher": "James Hill",
+            "category": "Professional",
+            "releaseDate": "Feb 2015",
+            "website": "https://www.microsoft.com/",
+            "summary": "Projects included: (UI, Data and Web Services) Validation frameworks and WorkFlow automation for Product onboarding.",
+            "image": {
+                "modal": "https://cdn.windowsreport.com/wp-content/uploads/2020/01/RE2r0Th-930x620.png",
+                "thumb": "https://cdn.windowsreport.com/wp-content/uploads/2020/01/RE2r0Th-930x620.png"
+            },
+            "keywords": [
+                "Asp.Net C# WPF SQL",
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "CertTutor : Owner",
+            "publisher": "James Hill",
+            "category": "Entreprenuerial",
             "releaseDate": "Feb 2012",
             "website": "www.CertTutor.com",
-            "summary": "Certification Learning Platform",
+            "summary": "Project: Certification Learning Platform",
             "image": {
                 "modal": "http://jameshill.azurewebsites.net/public/images/certtutor.jpg",
                 "thumb": "http://jameshill.azurewebsites.net/public/images/ctlogo.ico"
             },
             "keywords": [
                 ".Net C# WPF",
-                "NLP AI",
+                "Natural Language Processing",
                 "Custom Search api"
             ]
         },
         {
-            "name": "CertFX",
+            "name": "CertFX - Cofounder",
             "publisher": "James Hill",
-            "category": "Entreprenuer",
+            "category": "Entreprenuerial",
             "releaseDate": "Feb 2002",
             "website": "www.CertFX.com",
-            "summary": "Certification Prep",
+            "summary": "Project: Certification Quiz Engine",
             "image": {
                 "modal": "http://jameshill.azurewebsites.net/public/images/certfx.jpg",
                 "thumb": "http://jameshill.azurewebsites.net/public/images/certfx.jpg"
             },
             "keywords": [
                 "C++ MFC",
-                "quiz engine",
-                "encryption"
+                "Quiz engine",
+                "Encryption"
             ]
         }
     ],
@@ -237,7 +289,7 @@
             ],
             "skillDetails": [
                 {
-                    "name": "Visual Studio Code",
+                    "name": "Visual Studio ",
                     "level": "90",
                     "keywords": [
                         "DevOps",
@@ -246,17 +298,18 @@
                     ]
                 },
                 {
-                    "name": "GitHub",
-                    "level": "70",
+                    "name": "Fiddler",
+                    "level": "60",
                     "keywords": [
-                        "versioning",
-                        "collaborative",
-                        "shared"
+                        "Network trace",
+                        "Debugging",
+                        "Http",
+                        "Packets"
                     ]
                 },
                 {
                     "name": "PostMan",
-                    "level": "70",
+                    "level": "60",
                     "keywords": [
                         "API testing",
                         "Diagnosing",
@@ -282,7 +335,7 @@
                 },
                 {
                     "name": "DocumentDB",
-                    "level": "60",
+                    "level": "50",
                     "keywords": [
                         "document",
                         "non-relational",
@@ -291,7 +344,7 @@
                 },
                 {
                     "name": "MongoDB",
-                    "level": "50",
+                    "level": "40",
                     "keywords": [
                         "document",
                         "non-relational",
@@ -317,11 +370,11 @@
     ],
     "interests": [
         {
-            "name": "Stock Investing AI",
+            "name": "Wood working",
             "keywords": [
-                "prediction",
-                "finance",
-                "nasdaq"
+                "birdhouse",
+                "camera box",
+                "pickerwood"
             ]
         }
     ],
