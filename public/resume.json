@@ -4,18 +4,18 @@
         "label": "Senior Software Engineering Manager",
         "picture": "https://avatars1.githubusercontent.com/u/30061081?s=400&u=0b31cd3f025b61649a796b144773b97709240cf2&v=4",
         "email": "jamzhill@gmail.com",
-        "phone": "(425) 412-2886",
+        "phone": "(980) 621-6802",
         "website": "http://jameshill.azuresites.net",
         "summary": [
             "A team oriented senior software engineering lead with over 10 years of management experience leading engineering teams in the design, development and support of software applications throughout the entire development lifecycle. My previous roles have all required a strong emphasis on validation frameworks, automation strategies and process efficiencies in highly agile eCommerce environments. ",
             "Although my background has been primarily on Microsoft tech stack, I am currently expanding my skillset to include front-end development, specifically utilizing MERN stack: Mongo-Express-Node/React/Mongo"
         ],
         "location": {
-            "address": "289 Edmonds Ave SE",
+            "address": "",
             "postalCode": "98056",
-            "city": "",
-            "countryCode": "",
-            "region": "King"
+            "city": "Renton",
+            "countryCode": "US",
+            "region": "WA"
         },
         "profiles": [
             {
@@ -26,7 +26,7 @@
             {
                 "network": "LinkedIn",
                 "username": "James",
-                "url": "https://www.linkedin.com/in/james-hill-a3013b61/"
+                "url": "https://www.linkedin.com/in/jamzhill/"
             },
             {
                 "network": "GitHub",
